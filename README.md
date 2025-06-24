@@ -22,7 +22,7 @@ Installation :
 <img src="https://i.imgur.com/Ho9qa21.png" style="max-width:100%;">
                
 ## ✨ Features:
-- ✅ Generate for Any domains (hotmail.com, yahoo.com, att.net, gmail.com) and etc
+- ✅ Generate any emails for Any domains (hotmail.com, yahoo.com, att.net, gmail.com) and etc
 - ✅ Easy to use – just provide your names.txt list and get a filtered result
 - ✅ Lightweight & fast
 - ✅ **Auto-save results**
