@@ -1,0 +1,2 @@
+pystyle==0.2.0
+colorama==0.4.6
